@@ -1,17 +1,28 @@
-# Learn
+# **Learn**
 
-# **GIT**
-
-# PowerShell
+# GIT
 
 # PowerShell
 
-# **Packer**
+# Bicep
 
-# **Terraform**
+# Packer
+HashiCorp Developer https://developer.hashicorp.com/
 
-# **GitHub**
+# Terraform
+Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code) https://www.youtube.com/watch?v=7xngnjfIlK4
 
-# **Azure DevOps**
+HashiCorp Terraform Associate Certification Course - Pass the Exam! https://www.youtube.com/watch?v=V4waklkBC38
+
+Terraform on Azure - Basic Tutorial https://www.udemy.com/course/terraform-on-azure-basic-tutorial/
+
+HashiCorp Certified: Terraform Associate Practice Exam 2022 - https://www.udemy.com/course/terraform-associate-practice-exam/
+
+HashiCorp Certified: Terraform Associate - Hands-On Labs https://www.udemy.com/course/terraform-hands-on-labs/
+
+
+# GitHub
+
+# Azure DevOps
 
 Azure DevOps: Zero to Hero Tutorial https://www.youtube.com/watch?v=DoWhZO7nbCY
