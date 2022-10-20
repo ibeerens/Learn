@@ -9,6 +9,9 @@
 # Packer
 HashiCorp Developer https://developer.hashicorp.com/
 
+# IaC
+GO-EUC Github https://github.com/GO-EUC/go-euc-lab
+
 # Terraform
 Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code) https://www.youtube.com/watch?v=7xngnjfIlK4
 
