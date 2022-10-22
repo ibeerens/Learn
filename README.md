@@ -28,7 +28,15 @@ HashiCorp Certified: Terraform Associate - Hands-On Labs https://www.udemy.com/c
 
 Streaming Clouds - Azure Terraform with Mark Gray - https://www.youtube.com/watch?v=cev9_gzMbmE
 
-CUGC User Share (10-12-22): An Introduction to Terraform - https://www.youtube.com/watch?v=aoo8jD1PRhs
+CUGC User Share (10-12-22): An Introduction to Terraform - [https://www.youtube.com/watch?v=aoo8jD1PRhs](https://www.youtube.com/watch?v=aoo8jD1PRhs)
+
+Terraform on Azure Documentation - [https://learn.microsoft.com/en-us/azure/developer/terraform/](https://learn.microsoft.com/en-us/azure/developer/terraform/)
+
+Overview of the Terraform AzAPI provider - [https://learn.microsoft.com/en-us/azure/developer/terraform/overview-azapi-provider](https://learn.microsoft.com/en-us/azure/developer/terraform/overview-azapi-provider)
+
+Azure Terrafy - [https://github.com/Azure/aztfy](https://github.com/Azure/aztfy)
+
+Terraform issues - [https://github.com/Azure/terraform/issues](https://github.com/Azure/terraform/issues)
 
 # GitHub
 
