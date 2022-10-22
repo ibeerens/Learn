@@ -23,6 +23,9 @@ HashiCorp Certified: Terraform Associate Practice Exam 2022 - https://www.udemy.
 
 HashiCorp Certified: Terraform Associate - Hands-On Labs https://www.udemy.com/course/terraform-hands-on-labs/
 
+Streaming Clouds - Azure Terraform with Mark Gray - https://www.youtube.com/watch?v=cev9_gzMbmE
+
+CUGC User Share (10-12-22): An Introduction to Terraform - https://www.youtube.com/watch?v=aoo8jD1PRhs
 
 # GitHub
 
