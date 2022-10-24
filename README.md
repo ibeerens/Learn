@@ -1,5 +1,8 @@
 # **Learn**
 
+# MD 101
+MD-101 Deploy using cloud based tools https://learn.microsoft.com/en-gb/training/browse/?terms=md101
+
 # GIT
 
 # PowerShell
@@ -37,6 +40,9 @@ Overview of the Terraform AzAPI provider - [https://learn.microsoft.com/en-us/az
 Azure Terrafy - [https://github.com/Azure/aztfy](https://github.com/Azure/aztfy)
 
 Terraform issues - [https://github.com/Azure/terraform/issues](https://github.com/Azure/terraform/issues)
+
+Cloudninja Create an AVD environment - https://www.cloudninja.nu/post/2022/06/github-terraform-azure-part1/
+
 
 # GitHub
 
