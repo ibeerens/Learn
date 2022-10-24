@@ -5,6 +5,8 @@ MD-101 Deploy using cloud based tools https://learn.microsoft.com/en-gb/training
 
 Intune enrollment of AVD session host - https://www.youtube.com/watch?v=c1aIqDvZjH0&t=842s
 
+How to set up Intune - https://www.youtube.com/watch?v=udWdvVSzeTg
+
 # GIT
 
 # PowerShell
