@@ -7,6 +7,7 @@ Intune enrollment of AVD session host - https://www.youtube.com/watch?v=c1aIqDvZ
 
 How to set up Intune - https://www.youtube.com/watch?v=udWdvVSzeTg
 
+Microsoft Universal Print + Automatic Deployment from Microsoft Endpoint Manager - https://www.youtube.com/watch?v=2MaleOH6QDk
 # GIT
 
 # PowerShell
