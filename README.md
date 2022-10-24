@@ -58,6 +58,9 @@ Deploy AVD with Terraform - https://johanvanneuville.com/avd/deploy-azure-virtua
 
 # GitHub
 
+The Official Github trainings manual - https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class
+
+
 # Azure DevOps
 
 Azure DevOps: Zero to Hero Tutorial - https://www.youtube.com/watch?v=DoWhZO7nbCY
