@@ -14,6 +14,8 @@ Intune enrollment of AVD session host - https://www.youtube.com/watch?v=c1aIqDvZ
 # Packer
 
 HashiCorp Developer - https://developer.hashicorp.com/
+Build custom images for AVD using Packer and Github actions - https://schnerring.net/blog/automate-building-custom-windows-images-for-azure-virtual-desktop-with-packer-and-github-actions/
+
 
 # IaC
 
