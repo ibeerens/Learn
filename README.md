@@ -47,6 +47,8 @@ Terraform issues - [https://github.com/Azure/terraform/issues](https://github.co
 
 Cloudninja Create an AVD environment - https://www.cloudninja.nu/post/2022/06/github-terraform-azure-part1/
 
+Terraform locally run from Windows with State file in Azure Storage - https://techcommunity.microsoft.com/t5/azure-architecture-blog/terraform-locally-run-from-windows-with-state-file-in-azure/ba-p/3637692
+
 
 # GitHub
 
