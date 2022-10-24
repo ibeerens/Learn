@@ -49,6 +49,9 @@ Cloudninja Create an AVD environment - https://www.cloudninja.nu/post/2022/06/gi
 
 Terraform locally run from Windows with State file in Azure Storage - https://techcommunity.microsoft.com/t5/azure-architecture-blog/terraform-locally-run-from-windows-with-state-file-in-azure/ba-p/3637692
 
+Deploy AVD with Terraform - https://johanvanneuville.com/avd/deploy-azure-virtual-desktop-with-terraform-part-1/#comment-8413
+
+
 
 # GitHub
 
