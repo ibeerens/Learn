@@ -1,7 +1,5 @@
 **Infrastructure as Code**
 
-
-Microsoft Universal Print + Automatic Deployment from Microsoft Endpoint Manager - https://www.youtube.com/watch?v=2MaleOH6QDk
 # GIT
 
 # PowerShell
