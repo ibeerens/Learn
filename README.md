@@ -26,6 +26,10 @@ GO-EUC Github - https://github.com/GO-EUC/go-euc-lab
 
 # Terraform
 
+Pluralsight Terraform Deep Dive - https://www.pluralsight.com/courses/terraform-deep-dive
+
+Pluralsight Implementing Terraform on Microsoft Azure - https://www.pluralsight.com/courses/implementing-terraform-microsoft-azure
+
 Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code) - https://www.youtube.com/watch?v=7xngnjfIlK4
 
 HashiCorp Terraform Associate Certification Course - Pass the Exam! - https://www.youtube.com/watch?v=V4waklkBC38
@@ -54,6 +58,7 @@ Terraform locally run from Windows with State file in Azure Storage - https://te
 
 Deploy AVD with Terraform - https://johanvanneuville.com/avd/deploy-azure-virtual-desktop-with-terraform-part-1/#comment-8413
 
+Travis Roberts Terraform Playlist - https://www.youtube.com/playlist?list=PLnWpsLZNgHzVVslxs8Bwq19Ng0ff4XlFv
 
 
 # GitHub
