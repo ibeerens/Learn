@@ -1,13 +1,3 @@
-# **Learn**
-
-# MD 101
-MD-101 Deploy using cloud based tools https://learn.microsoft.com/en-gb/training/browse/?terms=md101
-
-Intune enrollment of AVD session host - https://www.youtube.com/watch?v=c1aIqDvZjH0&t=842s
-
-How to set up Intune - https://www.youtube.com/watch?v=udWdvVSzeTg
-
-Microsoft Universal Print + Automatic Deployment from Microsoft Endpoint Manager - https://www.youtube.com/watch?v=2MaleOH6QDk
 # GIT
 
 # PowerShell
