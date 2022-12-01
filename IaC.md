@@ -51,6 +51,8 @@ Deploy AVD with Terraform - https://johanvanneuville.com/avd/deploy-azure-virtua
 
 Travis Roberts Terraform Playlist - https://www.youtube.com/playlist?list=PLnWpsLZNgHzVVslxs8Bwq19Ng0ff4XlFv
 
+Terraform examples - https://github.com/hashicorp/terraform-provider-azurerm/tree/main/examples
+
 
 # GitHub
 
