@@ -8,7 +8,7 @@
 
 # Packer
 
-HashiCorp Developer - https://developer.hashicorp.com/
+HashiCorp Developer - https://developer.hashicorp.com/  
 Build custom images for AVD using Packer and Github actions - https://schnerring.net/blog/automate-building-custom-windows-images-for-azure-virtual-desktop-with-packer-and-github-actions/
 
 # IaC
@@ -17,7 +17,9 @@ GO-EUC Github - https://github.com/GO-EUC/go-euc-lab
 
 # Terraform
 
-Pluralsight Terraform Deep Dive - https://www.pluralsight.com/courses/terraform-deep-dive
+Terraform Tutorials - https://developer.hashicorp.com/terraform/tutorials/cloud-get-started
+
+Pluralsight Terraform Deep Dive - [https://www.pluralsight.com/courses/terraform-deep-dive](https://www.pluralsight.com/courses/terraform-deep-dive)
 
 Pluralsight Implementing Terraform on Microsoft Azure - https://www.pluralsight.com/courses/implementing-terraform-microsoft-azure
 
@@ -53,14 +55,10 @@ Travis Roberts Terraform Playlist - https://www.youtube.com/playlist?list=PLnWps
 
 Terraform examples - https://github.com/hashicorp/terraform-provider-azurerm/tree/main/examples
 
-
 # GitHub
 
 The Official Github trainings manual - https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class
 
-
 # Azure DevOps
 
 Azure DevOps: Zero to Hero Tutorial - https://www.youtube.com/watch?v=DoWhZO7nbCY
-
-
